@@ -1,0 +1,14 @@
+[
+    [{
+            "name": "live2",
+            "type": 0,
+            "url": "./lib/live2.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+   }],
+{"name":"sex•18+","type":0,"url":"https://cloud.lxweb.cn/f/J62Zsk/sex18+.txt","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"sex•live2","type":0,"url":"https://cloud.lxweb.cn/f/Zr79Sz/live2.txt","logo":"https://cloud.lxweb.cn/f/kAJZcp/1250.jpg"},
+{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"经典三级","type":0,"url":"https://cloud.lxweb.cn/f/rzDlhE/%E7%BB%8F%E5%85%B8%E4%B8%89%E7%BA%A7.txt","logo":"https://epg.112114.xyz/logo/{name}.png"}
+
+]
