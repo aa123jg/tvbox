@@ -1,0 +1,39 @@
+{    
+    "作者":"荷城茶秀",    
+    "站名":"九八影视",    
+    "主页url":"http://www.98dyb.com/",
+    "简介":"【Cally🈵】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=\"display: none;\">&&</span>",    
+    "影片状态":"状态：&&</p>",    
+    "搜索url":"http://www.98dsw.com/search.php;post;searchword={wd}",    
+    "线路数组":"<h3 class=\"title\">&&/h3>",
+    "线路标题":"网游鹰接口💠+>&&<",    
+    "分类url":"http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.98wap.com/{cateId}/index.html];;ak",    
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+    "筛选":{
+    "dianyingpian":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"全部","v":""},
+    {"n":"动作片","v":"dongzuopian"},
+    {"n":"喜剧片","v":"xijupian"},
+    {"n":"爱情片","v":"aiqingpian"},
+    {"n":"科幻片","v":"kehuanpian"},
+    {"n":"恐怖片","v":"kongbupian"},
+    {"n":"剧情片","v":"juqingpian"},
+    {"n":"战争片","v":"zhanzhengpian"},
+    {"n":"记录片","v":"jilupian"}
+    ]
+    }
+    ],
+    
+    "dianshiju":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"全部","v":""},
+    {"n":"国产剧","v":"guocanju"},
+    {"n":"港台剧","v":"gangtaiju"},
+    {"n":"欧美剧","v":"oumeiju"},
+    {"n":"日韩剧","v":"rihanju"}
+    ]
+    }  
+    ]
+    }    
+    }
