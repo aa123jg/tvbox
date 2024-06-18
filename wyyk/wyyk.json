@@ -113,7 +113,26 @@
       "filterable": 1,
       "ext": "./json/欧歌玩偶.json"
     },
-  
+    {
+      "key": "csp_XYQHikerAL_阿里苏苏",
+      "name": "🎖┃可见影视4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jars/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/alisusu.json"
+    },
+    {
+      "key": "遥遥领先",
+      "name": "🎖┃领先秒播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "南瓜弹幕版",
       "name": "🎖┃南瓜弹幕",
