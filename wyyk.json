@@ -21,9 +21,8 @@
  
  {"key": "多多弹幕","name": "🎖┃多多4K弹幕", "type": 3, "api": "csp_Wobg", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "quickSearch": 1, "changeable": 1, "filterable": 1,"ext": {"token": "./lib/alitoken.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "site": "https://tv.yydsys.top/", "danmu": true }, "timeout": 25 },
  
- { "key": "newyt", "name": "🎖┃影探4k线路","type": 3,"api": "csp_App", "jar": "./jars/yt.jar","searchable": 1, "quickSearch": 1,"playerType": 1, "filterable": 0,
-      "ext": "W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"
-    },          
+ {"key":"csp_XBPQ_6V"，"name":"🎖┃挺好影视4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ztha.top/TVBox/BFWJ/jss/挺好4K.json","jar":"http://ztha.top/TVBox/BFWJ/jar/0606.jar"},          
+ 
  {"key": "️永恒_woog","name": "🎖┃欧歌影视4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://raw.gitcode.com/woxinyijiu/DQ/raw/main/欧歌玩偶.json" },
  
  {"key": "csp_XYQHikerAL_阿里苏苏", "name": "🎖┃可见影视4K", "type": 3,"api": "csp_XYQHikerAL","jar": "./jars/xyqwogg.jar","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "./json/alisusu.json"},
