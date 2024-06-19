@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-  "spider": "./spider.jar",
+  "spider": "./jars/spider.jar",
   "lives": [
     {
       "name": "live直播",
@@ -125,15 +125,6 @@
       "ext": "./json/alisusu.json"
     },
     {
-      "key": "遥遥领先",
-      "name": "🎖┃领先秒播",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "南瓜弹幕版",
       "name": "🎖┃南瓜弹幕",
       "type": 3,
@@ -183,14 +174,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "小城影视",
-      "name": "🥇┃小城影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "悠云影视",
       "name": "🥇┃悠云影视",
@@ -443,22 +427,51 @@
       "jar": "./jars/fan.jar",
       "quickSearch": 0
     },
-    {"key":"sp360","name":" ♦┃官源 | 360","type":3,"api":"csp_Sp360","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":1,"changeable":1,"timeout":25},{"key":"drpy_js_奇珍异兽","name":" ♦┃官源 | 爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},{"key":"drpy_js_优酷","name":" ♦┃官源 | 优酷","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},{"key":"drpy_js_腾云驾雾","name":" ♦┃官源 | 腾讯","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},{"key":"drpy_js_百忙无果","name":" ♦┃官源 | 芒果","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},{"key":"drpy_js_菜狗","name":" ♦┃官源 | 搜狗","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"},
-       {
-"key": "黑木耳资源",
-"name": "🦄黑木耳┃采集",
-"type": 1,
-"searchable":1,
-"quickSearch":0,
-"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
- "playUrl":"json:http://api.suxun.site/api/delad?url="
- },
-    {
-      "key": "飞速资源",
-      "name": "🦄飞速┃采集",
-      "type": 1,
-      "api": "https://feisuzy.com/api.php/provide/vod/"
+    {"key":"sp360",
+    "name":" ♦┃官源 | 360",
+    "type":3,"api":"csp_Sp360",
+    "jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php",
+    "searchable":1,
+    "filterable":1,
+    "changeable":1,
+    "timeout":25
     },
+    
+    {"key":"drpy_js_奇珍异兽",
+    "name":" ♦┃官源 | 爱奇艺",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+    },
+    
+    {"key":"drpy_js_优酷",
+    "name":" ♦┃官源 | 优酷",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+    
+    {"key":"drpy_js_腾云驾雾",
+    "name":" ♦┃官源 | 腾讯",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+    },
+    
+    {"key":"drpy_js_百忙无果",
+    "name":" ♦┃官源 | 芒果",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+    },
+    
+    {"key":"drpy_js_菜狗",
+    "name":" ♦┃官源 | 搜狗",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
+    },
+
     {
       "key": "飞刀",
       "name": "🦄飞刀┃采集",
@@ -511,6 +524,22 @@
       "ext": {
         "分类url": "http://www.viphktv.com/vod/show/id/{cateId}/index{catePg}{class}{catePg}{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$19"
+      }
+    },
+      {
+      "key": " 尔特影院",
+      "name": "🌈尔特影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组": "<h3 class=\"title\">&&/h3>",
+        "线路标题": "网游鹰接口💠+>&&<",
+        "分类url": "https://v.lt.vip/index.php/vod/type/id/{cateId}/index{catePg}{class}{catePg}{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$7#B站$12#体育$11#直播$8#纪录片$9#影视解说$10#"
       }
     },
     {
@@ -842,6 +871,7 @@
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna"
       }
     },
+    
     {
       "key": "csp_AList",
       "name": "❄┃Alist合集 | 网盘",
