@@ -28,6 +28,8 @@
 
 {"key":"csp_XYQHikerAL_阿里苏苏","name":"🎖┃可见影视4K","type":3,"api":"csp_XYQHikerAL","jar":"./jars/xyqwogg.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alisusu.json"},
 
+{"key":"360资源","name":"🦄丨360┃采集","type":1,"api":" https://360zy.com/api.php/provide/vod ","playerType":1,"searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","台湾剧","日本剧","海外剧","大陆综艺","日韩综艺","国产动漫","日韩动漫","西部片","爽文短剧","现代都市","年代穿越","古装仙侠","女频恋爱","成长逆袭","NBA"]},
+
 {"key":"南瓜弹幕版","name":"🎖┃南瓜弹幕","type":3,"api":"csp_Nangua","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":0,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
 
 {"key":"csp_黑狐","name":"🎖┃黑狐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/heihu.json"},
@@ -39,6 +41,7 @@
 {"key":"悠云影视","name":"🥇┃悠云影视","type":3,"changeable":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"csp_XBPQ","ext":{"主页url":"https://yoyys1.com/","副标题":"pic-text text-right\">&&</b>","图片":"data-original=\"&&\"","嗅探词":".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","搜索url":"https://yoyys1.com/vodsearch/-------------.html?wd={wd}","影片类型":"<div class=\"module-info-tag\">&&立即播放","跳转播放链接":"var now=\"&&\"","导演":"导演：&&</div>","主演":"主演：&&</div>","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://yoyys1.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html"}},
 
 {"key":"双黄","name":"🥇┃双黄影视","type":3,"api":"csp_XBPQ","jar":"./jars/c.txt","ext":"./json/双黄.json"},
+
 {"key":"片吧影院","name":"🥇┃片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"分类url":"https://www.pbgoo.com/class/{cateId}--{area}--{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3"}},
 
 {"key":"csp_Auete","name":"🥇┃奥特影视","type":3,"api":"csp_Auete","jar":"./jars/PandaQ240416.jar","searchable":1,"quickSearch":0,"filterable":1},
